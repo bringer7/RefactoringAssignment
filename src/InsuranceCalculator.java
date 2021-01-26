@@ -12,6 +12,4 @@ public class InsuranceCalculator {
         }
     }
 
-    //(income - adjustment) * weight + constant
-
 }
